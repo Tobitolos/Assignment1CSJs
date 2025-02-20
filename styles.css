@@ -1,0 +1,30 @@
+ /* simple style for the whole page */
+body {
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 25px;
+    text-align: center;
+    margin: 50px;
+    background-color: #caf40b;
+}
+
+  /* Style for the header */
+header {
+    font-family: 'Franklin Gothic Medium', '', Arial, sans-serif;
+}
+
+ /* Style for the main content section */
+section {
+    background: lightskyblue;
+    padding: 50px;
+    max-width: 4000px;
+    margin: auto;
+    font-size: 35px;
+}
+
+  /* Style for the button */
+button {
+    background: red;
+    margin-top: 20px;
+    padding: 20px 20px;
+    font-size: 20px;
+}
