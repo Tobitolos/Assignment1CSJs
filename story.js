@@ -8,7 +8,7 @@
   // Function to generate a random story
 function generateStory() {
 
-    // array of different words
+    // array of different selection of words
     let subjects = ["A cat", "A dog", "A bird", "A fish", "A monkey"];
     let actions = ["jumps over", "runs past", "flys to", "swims near", "climbs on"];
     let objects = ["a tree", "a car", "a house", "a rock", "a fence"];
